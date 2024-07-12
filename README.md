@@ -16,6 +16,7 @@ Many women are unaware of their fundamental rights, so to let them know about th
 'Women were incredible, Women are incredible, and Women will always be incredible'
 
 PROJECT LINK - https://shakti-safety.netlify.app/
+PROJECT DEMO- https://drive.google.com/file/d/1cOHqaJLmHcnDKDrgljclDxaFNcT-I_bh/view?usp=sharing
 
 TECHNICAL STACK
 
